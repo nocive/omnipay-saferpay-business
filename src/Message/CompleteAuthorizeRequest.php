@@ -108,7 +108,7 @@ class CompleteAuthorizeRequest extends AbstractRequest
      * Must be set for initial installment payment and
      * all following installment payments.
      *
-     * @param   $value    Values: "yes" or "no"
+     * @param   $value  Values: "yes" or "no"
      *
      * @return  $this
      *
